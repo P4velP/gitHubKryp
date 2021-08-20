@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,7 +12,7 @@ namespace Afinni_sifra
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        public Form1() 
         {
             InitializeComponent();
         }
